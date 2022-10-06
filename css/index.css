@@ -9,3 +9,18 @@
     height: 70%;
 
 }
+
+.text-log{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+.log{
+    margin-right: 10px;
+    text-align: center;
+}
+
+.img-med{
+    height: 70%;
+}
